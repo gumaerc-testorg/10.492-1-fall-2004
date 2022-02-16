@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 title: Tools
 uid: ce8135a8-a730-53fa-fcae-d3ff8910dd3e
 ---

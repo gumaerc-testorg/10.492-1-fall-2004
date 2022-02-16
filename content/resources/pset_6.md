@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Problem set.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/63c1614691b9e02fee5748adfdaeec64_pset_6.pdf
+file: /media/courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/63c1614691b9e02fee5748adfdaeec64_pset_6.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: pset_6.pdf
 uid: 63c16146-91b9-e02f-ee57-48adfdaeec64
