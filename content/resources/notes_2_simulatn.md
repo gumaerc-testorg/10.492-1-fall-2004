@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 87e25efe-aeae-0a67-6dcd-fadcc34ecc76
 resourcetype: Document
 title: notes_2_simulatn.pdf
 uid: 09339e95-f897-97a6-d374-cf59bf475f68

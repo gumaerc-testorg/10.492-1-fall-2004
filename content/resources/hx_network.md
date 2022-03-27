@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: ce8135a8-a730-53fa-fcae-d3ff8910dd3e
 resourcetype: Other
 title: hx_network.xls
 uid: 6ba4821c-57ec-a3a4-8b13-e49b4e82ebf5

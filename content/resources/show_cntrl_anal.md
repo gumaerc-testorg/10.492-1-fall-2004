@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: ce8135a8-a730-53fa-fcae-d3ff8910dd3e
 resourcetype: Other
 title: show_cntrl_anal.xls
 uid: 66defec1-15a1-1a24-a1b5-9d25e19e82e9
