@@ -1,7 +1,15 @@
 ---
 content_type: page
+description: This section provides the lecture notes from the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 87e25efe-aeae-0a67-6dcd-fadcc34ecc76
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -28,7 +36,7 @@ Notes
 Overview, Aims of Course, Shower Process, Feedback Structure
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/notes_1_shower))
+({{% resource_link 13b3df56-fb34-060f-78da-643586a0277e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +60,7 @@ Material and Energy Balance Model, Linearizing Equations
 Scaled Deviation Variables, Matrix Operations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/notes_1a_matrix))
+({{% resource_link 08292748-7868-bfca-8ffe-ddf095883ee2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +96,7 @@ The Disturbance Cost, Manipulated Variable Sizing
 Proportional Control Algorithm, Dynamic Simulation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/notes_2_simulatn))
+({{% resource_link 09339e95-f897-97a6-d374-cf59bf475f68 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -136,7 +144,7 @@ Review the Design Process, Overview of Detailed Design Process
 Heat Exchanger Network, Heat Recovery Scheme
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/notes_3_hx_ntwrk))
+({{% resource_link c17b8309-d861-c15d-37b6-7fad8d91fbfe "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -220,7 +228,7 @@ Process Simulators
 Beyond the Scope – What These Methods Miss
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/note_4_last_topc))
+({{% resource_link 209e60e5-08cb-a7ed-e0a5-d658b9104c8d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
