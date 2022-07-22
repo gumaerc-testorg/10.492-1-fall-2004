@@ -5,6 +5,7 @@ file: /courses/10-492-1-integrated-chemical-engineering-topics-i-process-control
 file_type: application/msword
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Excel calculator file.
-

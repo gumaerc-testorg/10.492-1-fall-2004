@@ -6,6 +6,7 @@ file: /courses/10-492-1-integrated-chemical-engineering-topics-i-process-control
 file_type: application/msword
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This spreadsheet file contains the basecase that is presented in the Lecture Notes. This file may be modified to add the bypass, or a trim heat exchanger.
-

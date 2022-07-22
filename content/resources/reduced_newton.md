@@ -6,6 +6,7 @@ file: /courses/10-492-1-integrated-chemical-engineering-topics-i-process-control
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This MATLAB? file uses a reduced-Newton algorithm with a weak line search to solve a set of non-linear algebraic equations.
-
