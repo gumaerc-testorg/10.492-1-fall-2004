@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set.
 file: /courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/107c162e6aa70c7112e462652b871459_pset_8.pdf
+file_size: 55928
 file_type: application/pdf
 learning_resource_types:
 - Assignments
