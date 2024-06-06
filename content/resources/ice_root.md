@@ -3,6 +3,7 @@ content_type: resource
 description: This MATLAB? file calculates the RGA (relative gain array) and DC (disturbance
   cost) for the 10.492 heat exchanger network.
 file: /courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/11438f916c39009b76c31df2056a4eb2_ice_root.m
+file_size: 11880
 file_type: text/plain
 learning_resource_types:
 - Tools
