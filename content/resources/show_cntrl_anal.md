@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Excel calculator file.
-file: /courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/66defec115a11a24a1b59d25e19e82e9_show_cntrl_anal.xls
+file: /ol-ocw-studio-app/courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/66defec115a11a24a1b59d25e19e82e9_show_cntrl_anal.xls
 file_size: 77824
 file_type: application/msword
 learning_resource_types:
