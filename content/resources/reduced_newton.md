@@ -2,7 +2,7 @@
 content_type: resource
 description: This MATLAB? file uses a reduced-Newton algorithm with a weak line search
   to solve a set of non-linear algebraic equations.
-file: /ol-ocw-studio-app/courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/3fe1ffed07cc2d74c6c6120be76f22b6_reduced_Newton.m
+file: /courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/3fe1ffed07cc2d74c6c6120be76f22b6_reduced_Newton.m
 file_size: 5546
 file_type: text/plain
 learning_resource_types:
