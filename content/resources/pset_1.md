@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set.
-file: /courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/7658a286e75a244c39263f78cbaf0d75_pset_1.pdf
+file: /ol-ocw-studio-app/courses/10-492-1-integrated-chemical-engineering-topics-i-process-control-by-design-fall-2004/7658a286e75a244c39263f78cbaf0d75_pset_1.pdf
 file_size: 34199
 file_type: application/pdf
 learning_resource_types:
